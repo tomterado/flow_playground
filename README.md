@@ -1,4 +1,5 @@
 # Flow Playground
+![img](https://miro.medium.com/max/12502/1*LKxpdGoG8Nyl_x9QGCGK7Q.png)
 Learning Playground for Flow Blockchain 
 
 ## How to get started
