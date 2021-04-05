@@ -4,8 +4,8 @@ Learning Playground for Flow Blockchain
 
 ## How to get started
 1. Read their official documentation and Whitepapers. Estimated time: 2 - 5 hours.
-2. Go through [Josh's Flow Medium posts](https://joshuahannan.medium.com/). Awesome developer at flow who breaks down all the necessary information.  Estimated time: 2 hours.
-3. Go the [Flow tutorials](https://docs.onflow.org/cadence/tutorial/01-first-steps)
+3. Go through [Josh's Flow Medium posts](https://joshuahannan.medium.com/). Awesome developer at flow who breaks down all the necessary information. Estimated time: 2 hours.
+4. Go the [Flow tutorials](https://docs.onflow.org/cadence/tutorial/01-first-steps) Estimated 3 - 5 hours.
 
 ## Official Documentation + Tutorials
 - [Flow Org](https://docs.onflow.org/)
