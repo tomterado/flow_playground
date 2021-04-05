@@ -18,5 +18,6 @@ Learning Playground for Flow Blockchain
 ## Companies building on flow
 - [VIV3 - Marketplace](https://viv3.com/)
 - [Evaluate - Data on TopShots](https://evaluate.market/)
-- [Intangible - Data on TopShots](https://intangible.market/Home.php)
+- [Intangible - Data on TopShots](https://intangible.market/Home.php) 
+- [Momentranks - Data on TopShots](https://momentranks.com/)
 - [ChainMonsters - Game](https://playchainmonsters.com/)
